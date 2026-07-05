@@ -18,8 +18,8 @@ The project encompasses custom high-speed PCB designs, mechanical part models, a
 
 ## Tools & Technologies Used
 * **Hardware Design:** Altium Designer (Multi-layer PCB routing)
-* **Simulation:** [Insert your simulation software here, e.g., Webots, ROS, MATLAB]
-* **Mechanical CAD:** [Insert your CAD software here, e.g., SolidWorks, Fusion360]
+* **Simulation:** Made using Python
+* **Mechanical CAD:** SolidWorks
 
 ## Getting Started
 ### Prerequisites
