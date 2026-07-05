@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=5V Pin=D9-1
+Removed Pin From Net: NetName=GND Pin=D9-2
+Removed Pin From Net: NetName=GND Pin=U8-1
+Removed Pin From Net: NetName=3V3 Pin=U8-2
+Removed Member From Class: ClassName=POWER Member=D9
+Removed Member From Class: ClassName=STM32H7 Board Member=J19
+Removed Member From Class: ClassName=POWER Member=U8
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=STM32H7 Board Member=Component R19 22R 0402
+Added Member To Class: ClassName=STM32H7 Board Member=Component U5 MMUN2211LT1G

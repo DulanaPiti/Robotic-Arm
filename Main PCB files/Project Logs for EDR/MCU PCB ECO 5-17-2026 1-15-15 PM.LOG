@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=R19 NewDesignator=J19
+Change Component Description : Designator=R26 Old Description=Resistor, AS 0603 0R Jumper 100mW, AEC-Q, Anti-Sulur New Description=Resistor, AS 0603 0R Jumper 100mW, AEC-Q, Anti-Sulur | Bourns CR0603AJ/-000EAS
+Change Component Description : Designator=SB1 Old Description=Resistor, AS 0603 0R Jumper 100mW, AEC-Q, Anti-Sulur New Description=Resistor, AS 0603 0R Jumper 100mW, AEC-Q, Anti-Sulur | Bourns CR0603AJ/-000EAS
+Change Component Description : Designator=SB2 Old Description=Resistor, AS 0603 0R Jumper 100mW, AEC-Q, Anti-Sulur New Description=Resistor, AS 0603 0R Jumper 100mW, AEC-Q, Anti-Sulur | Bourns CR0603AJ/-000EAS
+Change Component Description : Designator=R29 Old Description=Resistor,Thick Film,49.9 Ohms,0.063 W,1%,SMT,0402,TCR 37 ppm/DegC,Cut Tape New Description=Resistor,Thick Film,49.9 Ohms,0.063 W,1%,SMT,0402,TCR 37 ppm/DegC,Cut Tape | Vishay Dale CRCW040249R9FKED
+Change Component Description : Designator=L2 Old Description=SMDRI127-330MT New Description=FHD4020S-3R3MT

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Encoder_EDR_PCB.PrjPcb]
+   Generated File[NEMA24.TXT]
+   Generated File[NEMA24.LDP]
+   Generated File[NEMA24.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:15:14 PM On 5/29/2026

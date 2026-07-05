@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3V3 Pin=L1-1
+Removed Pin From Net: NetName=NetC14_2 Pin=L1-2
+Removed Member From Class: ClassName=STM32H7 Board Member=L1
+Added Component: Designator=FB1(FB_MI0805J102R-10)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MI0805J102R-10/Laird-Signal+Integrity+Products/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Laird-Signal Integrity Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MI0805J102R-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Laird"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MI0805J102R-10/Laird-Signal+Integrity+Products/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_2 Pin=FB1-1
+Added Pin To Net: NetName=3V3 Pin=FB1-2
+Added Member To Class: ClassName=STM32H7 Board Member=Component FB1 MI0805J102R-10

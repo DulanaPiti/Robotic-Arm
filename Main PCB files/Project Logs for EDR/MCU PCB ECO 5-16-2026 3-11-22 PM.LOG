@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SPI_CS Pin=R56-2
+Removed Pin From Net: NetName=SPI_Flash_MOSI Pin=U2-87
+Added Component: Designator=R56(R0402)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0402FR-0722RL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0402FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0402FR-0722RL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_Flash_MOSI Pin=R56-1
+Added Pin To Net: NetName=SPI_CS Pin=U2-91
+Added Pin To Net: NetName=NetR56_2 Pin=R56-2
+Added Pin To Net: NetName=NetR56_2 Pin=U2-87
+Added Net: Name=NetR56_2

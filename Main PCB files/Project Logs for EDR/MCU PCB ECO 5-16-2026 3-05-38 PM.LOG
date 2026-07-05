@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=SPI1_SCK Pin=U2-29
+Removed Pin From Net: NetName=SPI1_MISO Pin=U2-30
+Removed Pin From Net: NetName=SPI1_MOSI Pin=U2-31
+Added Component: Designator=R54(R0402)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0402FR-0722RL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0402FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0402FR-0722RL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R55(R0402)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0402FR-0722RL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0402FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0402FR-0722RL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R56(R0402)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0402FR-0722RL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0402FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0402FR-0722RL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI1_SCK Pin=R54-1
+Added Pin To Net: NetName=SPI1_MISO Pin=R55-1
+Added Pin To Net: NetName=SPI1_MOSI Pin=R56-1
+Added Pin To Net: NetName=NetR54_2 Pin=R54-2
+Added Pin To Net: NetName=NetR54_2 Pin=U2-29
+Added Net: Name=NetR54_2
+Added Pin To Net: NetName=NetR55_2 Pin=R55-2
+Added Pin To Net: NetName=NetR55_2 Pin=U2-30
+Added Net: Name=NetR55_2
+Added Pin To Net: NetName=NetR56_2 Pin=R56-2
+Added Pin To Net: NetName=NetR56_2 Pin=U2-31
+Added Net: Name=NetR56_2
+Added Member To Class: ClassName=STM32H7 Board Member=Component R54 22R 0402
+Added Member To Class: ClassName=STM32H7 Board Member=Component R55 22R 0402
+Added Member To Class: ClassName=STM32H7 Board Member=Component R56 22R 0402

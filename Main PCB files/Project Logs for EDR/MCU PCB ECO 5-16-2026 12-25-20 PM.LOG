@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=LED1 Old Footprint=FP-B2B-XH-A_LF_SN-MFG New Footprint=FP-B2B-XH-A_LF_SN-MFG
+Change Component Footprint: Designator=U2 Old Footprint=FP-LQFP100-1L-MFG New Footprint=FP-LQFP100-1L-MFG
+Change Component Description : Designator=R26 Old Description=Resistor, AS 0603 0R Jumper 100mW, AEC-Q, Anti-Sulur New Description=Resistor, AS 0603 0R Jumper 100mW, AEC-Q, Anti-Sulur | Bourns CR0603AJ/-000EAS
+Change Component Description : Designator=SB1 Old Description=Resistor, AS 0603 0R Jumper 100mW, AEC-Q, Anti-Sulur New Description=Resistor, AS 0603 0R Jumper 100mW, AEC-Q, Anti-Sulur | Bourns CR0603AJ/-000EAS
+Change Component Description : Designator=SB2 Old Description=Resistor, AS 0603 0R Jumper 100mW, AEC-Q, Anti-Sulur New Description=Resistor, AS 0603 0R Jumper 100mW, AEC-Q, Anti-Sulur | Bourns CR0603AJ/-000EAS
+Change Component Description : Designator=R29 Old Description=Resistor,Thick Film,49.9 Ohms,0.063 W,1%,SMT,0402,TCR 37 ppm/DegC,Cut Tape New Description=Resistor,Thick Film,49.9 Ohms,0.063 W,1%,SMT,0402,TCR 37 ppm/DegC,Cut Tape | Vishay Dale CRCW040249R9FKED

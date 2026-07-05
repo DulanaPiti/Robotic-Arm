@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NEMA17.PcbDoc   5/29/2026  12:12:06 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NEMA17.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             12        PTH        33.28mm (1.31inch)
+T2      0.711mm (28mil)                                           Round             5         PTH        49.21mm (1.94inch)
+T3      0.94mm (37mil)                                            Round             8         PTH        14.24mm (0.56inch)
+T4      1.05mm (41mil)                                            Round             2         PTH        2.50mm (0.10inch)
+T5      1.62mm (64mil)                                            Round             2         PTH        16.26mm (0.64inch)
+T6      3.1mm (122mil)                                            Round             4         NPTH       93.00mm (3.66inch)
+T7      3.3mm (130mil)                                            Round             2         NPTH       12.70mm (0.50inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              35
+
+Total Processing Time (hh:mm:ss) : 00:00:00

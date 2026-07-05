@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=MicroSD.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=MicroSD.SchDoc|FileName=PI_CON.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=MicroSD.SchDoc|FileName=POWER.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=MicroSD.SchDoc|FileName=STM32H7 Board.SchDoc|SheetNumber=1

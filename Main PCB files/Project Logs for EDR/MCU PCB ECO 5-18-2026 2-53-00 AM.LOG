@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC-MDU Pin=R25-2
+Removed Pin From Net: NetName=VCC-MDU Pin=SW5-1
+Removed Pin From Net: NetName=VCC-MDU Pin=SW5-2
+Change Net Name : Old Net Name=VCC-MDU New Net Name=VDD-MDU
+Added Pin To Net: NetName=VCC-MDU Pin=R25-2
+Added Pin To Net: NetName=VCC-MDU Pin=SW5-1
+Added Pin To Net: NetName=VCC-MDU Pin=SW5-2
+Added Net: Name=VCC-MDU
+Added Rule: Name=Schematic Supply Nets_8

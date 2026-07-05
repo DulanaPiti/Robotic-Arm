@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Work\Altium\EDR\MCU.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mcu-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=mcu-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=mcu-rectholes.txt|DrillLayers=gtl,g1,g2,gbl

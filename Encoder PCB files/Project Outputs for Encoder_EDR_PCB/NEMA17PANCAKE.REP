@@ -1,0 +1,422 @@
+*************************************************************
+FileName = NEMA17PANCAKE.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : NEMA17PANCAKE.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : NEMA17PANCAKE.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : NEMA17PANCAKE.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : NEMA17PANCAKE.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : NEMA17PANCAKE.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D40
+    D41
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : NEMA17PANCAKE.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : NEMA17PANCAKE.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : NEMA17PANCAKE.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : NEMA17PANCAKE.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : NEMA17PANCAKE.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D28
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : NEMA17PANCAKE.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D28
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : NEMA17PANCAKE.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : NEMA17PANCAKE.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : NEMA17PANCAKE.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : NEMA17PANCAKE.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : NEMA17PANCAKE.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D32
+    D33
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : NEMA17PANCAKE.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : NEMA17PANCAKE.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : NEMA17PANCAKE.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : NEMA17PANCAKE.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : NEMA17PANCAKE.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : NEMA17PANCAKE.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : NEMA17PANCAKE.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D28
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : NEMA17PANCAKE.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D10
+    D28
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : NEMA17PANCAKE.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : NEMA17PANCAKE.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : NEMA17PANCAKE.GM
+
+
+Used DCodes :
+    D53
+*************************************************************
+
